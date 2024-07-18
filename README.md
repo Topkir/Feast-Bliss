@@ -1,16 +1,22 @@
-# feast_bliss
+# Feast Bliss
+##Flutter Bootcamp Bitirme Projesi
+ 
+Widgetler / Teknolojiler:
+ - Lottie Animasyonları
+ - HTTP ve Dio Paketi
+ - Bloc Pattern
+ - Provider
+ - Firebase
+ - Navigation (Navigator, MaterialPageRoute)
+ - StatefulWidget, StatelessWidget ve State Management
 
-Flutter Bootcamp Bitirme Projesi
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[feast bliss.webm](https://github.com/user-attachments/assets/c92ca288-af0a-4026-b8f2-028321a6b064)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
